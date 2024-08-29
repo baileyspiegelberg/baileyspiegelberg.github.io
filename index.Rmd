@@ -1,0 +1,51 @@
+---
+title: "Bailey Spiegelberg"
+image: "Bailey.png"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/bailey-spiegelberg-mph-09b668140"
+  - label: GitHub
+    url: "https://github.com/baileyspiegelberg"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+My name is Bailey Spiegelberg. I grew up in St. Lucia, a small tropical island
+in the Caribbean. I have taken three stats classes but have limited experience
+of analysing data in R. After this class, I am hoping that I will be able to use
+R to analyse my data. 
+
+## Education
+
+**Johns Hopkins School of Medicine** | Baltimore, MD
+
+PhD in Human Genetics | August 2021 - December 2026 (Expected)
+
+**Saint Louis University** | St. Louis, MO
+
+MPH in Maternal/Child Health and Global Health | August 2019 - May 2021
+
+**University of Wisconsin - Madison** | Madison, WI
+
+BS in Genetics, Minor in Global Health | August 2015 - May 2019
+
+## Fun Facts 
+
+1. I represented St. Lucia as a national swimmer and competed for 15 years. 
+   My best race was the open water 5k.
+2. I love to cook. 
+3. I am happiest by the water, preferably the ocean.
+4. My husband and I have a garden every summer. This year we had more peppers 
+   than we knew what to do with.
+5. St. Lucia just won their first Olympic medal.
+
+## WebPage Link  
+`r fontawesome::fa("python", fill = "blue")`|&#124; [Julien Alfred](https://www.instagram.com/julien.alfred/?hl=en)
+
+St. Lucia is a small island of 180,000 people. Before this summer, we have never
+won an Olympic medal. Thanks to Julien Alfred, we now have two. Gold and Silver ✨.
+She won the 100m track and came second in the 200m track. St. Lucia had the second
+most medals per capita at the Paris 2024 games. We were only behind Dominica, 
+who had the most medals per capita, with one gold. Also Dominica's first Olympic medal.
